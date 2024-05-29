@@ -1,3 +1,16 @@
+nav li{
+    list-style: none;
+    display: inline;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+nav li:hover{
+    background-color: lightcoral;
+    padding: 0 5px;
+}
 table{
     border-collapse: collapse;
 }
